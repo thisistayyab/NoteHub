@@ -13,7 +13,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            NoteHub By Abdullah
+            NoteHub
           </Link>
           <button
             className="navbar-toggler"
